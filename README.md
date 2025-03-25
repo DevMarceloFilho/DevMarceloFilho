@@ -17,7 +17,7 @@ Desenvolvedor Full Stack especializado em PHP 8.4 OOP, MariaDB e Docker. Crio fr
 - Code Clean e padrões de projeto
 
 ## Projetos Destacados
-- [📊 Dashboard Analítico](https://github.com/DevMarceloFilho/dashboard) - Dashboard administrativo com visualização de dados em tempo real
+- [📊 Gerenciador de Tarefas](https://github.com/DevMarceloFilho/gerenciador-de-tarefas) - Gerenciador de Tarefas
 - [🐍 Snake Game Luxury](https://github.com/DevMarceloFilho/snake-game) - Versão moderna e sofisticada do jogo clássico
 - [🧮 Calculadora Premium](https://github.com/DevMarceloFilho/calculadora) - Aplicação elegante com design minimalista
 
